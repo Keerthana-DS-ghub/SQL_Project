@@ -1,6 +1,6 @@
 # SQL Project: Sales and Manufacturing Insights
 
-![Project Banner](banner.png)
+![Project Banner](SQL%20BANNER.png)
 
 ## Description
 This project involves analyzing sales, manufacturing, and forecast data using SQL. The goal is to provide insights into customer behavior, sales trends, and manufacturing costs. The project includes several fact and dimension tables, which are used to perform various SQL queries for data analysis.
